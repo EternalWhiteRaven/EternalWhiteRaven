@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @EternalWhiteRaven
 - 👀 I’m interested in ...
-Video Games
-Machine Learning
+Video Games,
+Machine Learning,
 Cybersecurity
 - 🌱 I’m currently learning ...
-Python
-Web Development
+Python,
+Web Development,
 JavaScript
 - 💞️ I’m looking to collaborate on ...
 Nothing at the moment, just building a portfolio and learning
